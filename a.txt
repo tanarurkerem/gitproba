@@ -1,2 +1,2 @@
 Első sor
-még egy sor <a href="http://tanarurkerem.hu">Tanarurkerem</a>
+még egy sor <a href="http://tanarurkerem.hu" class="masik">Tanarurkerem</a>
